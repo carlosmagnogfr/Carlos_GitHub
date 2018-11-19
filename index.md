@@ -37,8 +37,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://drive.google.com/open?id=110HpOCEDb_GKNo9kkWPLmLig0uJ0soG2)
+Format: ![Alt Text](https://drive.google.com/open?id=110HpOCEDb_GKNo9kkWPLmLig0uJ0soG2)
 
 ```python
 from math import exp, sqrt
